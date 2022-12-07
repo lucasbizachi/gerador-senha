@@ -15,4 +15,6 @@
 </p>
   
   
+<h3>Conclusão:</h3>
+<p>Esse projeto possui uma funcionalidade para escolher o nível de segurança da senha com opções tipo checklist, para deixar mais segura.</p>
 
