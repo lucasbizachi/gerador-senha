@@ -1,5 +1,12 @@
 <h1>Gerador de senha</h1>
 
+<p>
+  <img src="https://img.shields.io/github/license/lucasbizachi/gerador-senha"/>&#160;&#160;
+  <img src="https://img.shields.io/github/languages/count/lucasbizachi/gerador-senha"/>&#160;&#160;
+  <img src="https://img.shields.io/github/languages/top/lucasbizachi/gerador-senha"/>&#160;&#160;
+  <img src="https://img.shields.io/github/repo-size/lucasbizachi/gerador-senha"/>
+</p>
+
 <h3>Descrição:</h3>
 <p>Exemplo de um gerador de senha online.</p>
 
